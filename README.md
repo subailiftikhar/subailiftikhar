@@ -1,6 +1,6 @@
 # Hi, I'm Subail Iftikhar 👋
 
-**Founder & CEO of [Elite Mercato](https://elitemercato.com)**, an e-commerce agency that builds and grows online stores for brands in the **US, UK, Canada & Europe**. 100+ stores managed.
+**Web developer, B2B cold caller and Founder & CEO of [Elite Mercato](https://elitemercato.com)**, an e-commerce agency that builds and grows online stores for brands in the **US, UK, Canada & Europe**. 100+ stores managed.
 
 ## What I do
 
@@ -9,6 +9,7 @@
 - 📈 **Store management & CRO**: listings, product pages and conversion rate optimization
 - 📣 **Meta & Google Ads**: Facebook, Instagram, Search, Shopping and Performance Max
 - 🛒 **Marketplaces**: Amazon, eBay, Walmart, TikTok Shop, Temu & SHEIN
+- 📞 **Cold calling**: B2B outbound calling campaigns that book qualified appointments
 - ⚙️ **Automation** for outreach and e-commerce workflows
 
 ## Tech I work with
