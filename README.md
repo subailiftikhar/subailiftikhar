@@ -20,6 +20,6 @@ Shopify (Liquid) · WordPress · WooCommerce · HTML · CSS · JavaScript · Met
 
 Need a Shopify store built, fixed or scaled? **[Book a free consultation](https://elitemercato.com)** or **[book a 15-min call](https://cal.com/subu/15min)**.
 
-[Website](https://elitemercato.com) · [LinkedIn](https://www.linkedin.com/in/subail-iftikhar/) · [Instagram](https://www.instagram.com/subail_iftikhar/) · [Facebook](https://www.facebook.com/elitemercato/) · [Pinterest](https://www.pinterest.com/subailiftikhar/) · [Quora](https://www.quora.com/profile/Subail-Iftikhar) · ✉️ info@elitemercato.com
+[Website](https://elitemercato.com) · [LinkedIn](https://www.linkedin.com/in/subail-iftikhar/) · [Instagram](https://www.instagram.com/subail_iftikhar/) · [Facebook](https://www.facebook.com/elitemercato/) · [Pinterest](https://www.pinterest.com/subailiftikhar/) · [Quora](https://www.quora.com/profile/Subail-Iftikhar) · [X](https://x.com/subailiftikhar) · [Threads](https://www.threads.com/@subail_iftikhar) · [TikTok](https://www.tiktok.com/@subailiftikhar44) · ✉️ info@elitemercato.com
 
 📍 Lahore, Pakistan · Working with clients worldwide
